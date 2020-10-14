@@ -44,3 +44,18 @@
     grid-row: -1;
     /* justify-self: end; */
 }
+
+.fentity-search{
+    width: 65vw;
+    background-color: grey ;
+    border-radius: 3px;
+}
+.fentity-search-img{
+    display: inline;
+    width: 10vw;
+    height: 10vh;
+}
+.fentity-search:hover{
+    background-color: white ;
+
+}
